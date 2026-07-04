@@ -36,7 +36,7 @@ early stopping, and an inference layer decoupled from the UI.
 
 *(Run the app locally to see it live — see [Quick Start](#-quick-start))*
 
-![alt text](<Screenshot 2026-07-04 131314.png>)
+![alt text](screenshots/prediction.png)
 
 ---
 
