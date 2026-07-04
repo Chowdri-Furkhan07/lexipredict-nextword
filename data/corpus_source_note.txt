@@ -1,0 +1,5 @@
+Source: "Alice's Adventures in Wonderland" by Lewis Carroll
+Project Gutenberg EBook #11 - https://www.gutenberg.org/ebooks/11
+Public domain in the United States. Used here as raw text for
+next-word-prediction model training (not redistributed as a Gutenberg
+release, no trademark/header included).
