@@ -1,0 +1,26 @@
+{
+  "rnn": {
+    "train_accuracy": 0.31121495366096497,
+    "val_accuracy": 0.08465608209371567,
+    "train_loss": 3.665050506591797,
+    "val_loss": 5.929306507110596,
+    "epochs_run": 16,
+    "training_seconds": 15.8
+  },
+  "lstm": {
+    "train_accuracy": 0.10467289388179779,
+    "val_accuracy": 0.0634920671582222,
+    "train_loss": 4.454555988311768,
+    "val_loss": 6.075417518615723,
+    "epochs_run": 16,
+    "training_seconds": 21.0
+  },
+  "bilstm": {
+    "train_accuracy": 0.1299065351486206,
+    "val_accuracy": 0.06878306716680527,
+    "train_loss": 4.122852802276611,
+    "val_loss": 6.123021602630615,
+    "epochs_run": 16,
+    "training_seconds": 39.2
+  }
+}
