@@ -178,7 +178,8 @@ streamlit run app.py
 ## 👤 Author
 
 **Chowdri Furkhan**
-B.E. in Artificial Intelligence & Machine Learning, VVIT Bengaluru
+
+Artificial Intelligence & Machine Learning
 
 - GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 - LinkedIn: [chowdri-furkhan](https://linkedin.com/in/chowdri-furkhan/)
