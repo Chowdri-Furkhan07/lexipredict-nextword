@@ -7,7 +7,7 @@
 
 A production-structured deep learning project that predicts and generates the
 next word(s) in a sentence using **SimpleRNN**, **LSTM**, and **Bidirectional
-LSTM** models — with a Streamlit studio for live comparison, confidence
+LSTM** models - with a Streamlit studio for live comparison, confidence
 scores, and temperature-controlled text generation.
 
 This project was refactored from a single training-notebook prototype into a
