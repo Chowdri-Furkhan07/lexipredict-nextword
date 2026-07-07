@@ -20,7 +20,7 @@ early stopping, and an inference layer decoupled from the UI.
 ## ✨ Features
 
 - **Three architectures** trained and benchmarked on the same data: SimpleRNN, LSTM, BiLSTM
-- **Modular pipeline** — `data_preprocessing.py`, `model.py`, `train.py`, `predict.py` instead of one monolithic script
+- **Modular pipeline** - `data_preprocessing.py`, `model.py`, `train.py`, `predict.py` instead of one monolithic script
 - **Regularization & callbacks** — Dropout, EarlyStopping, ReduceLROnPlateau (absent from the original prototype)
 - **Temperature-controlled sampling** — deterministic (argmax) or diverse/creative generation
 - **Multi-word text generation**, not just single next-word prediction
