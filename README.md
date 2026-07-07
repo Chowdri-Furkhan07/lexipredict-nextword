@@ -1,4 +1,4 @@
-# 🧠 LexiPredict — Next Word Prediction Studio
+# 🧠 LexiPredict - Next Word Prediction Studio
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21-orange.svg)](https://www.tensorflow.org/)
