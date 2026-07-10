@@ -26,7 +26,7 @@ early stopping, and an inference layer decoupled from the UI.
 - **Multi-word text generation**, not just single next-word prediction
 - **Top-k confidence visualization** in the app (bar chart of candidate words)
 - **Side-by-side model comparison** mode in the UI
-- **Reproducible artifacts** — tokenizer, max sequence length, and training history are persisted separately from model weights
+- **Reproducible artifacts** - tokenizer, max sequence length, and training history are persisted separately from model weights
 
 ## 🖥️ App Preview
 
