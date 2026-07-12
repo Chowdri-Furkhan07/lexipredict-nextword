@@ -34,7 +34,7 @@ early stopping, and an inference layer decoupled from the UI.
 |---|---|
 | Model selector, temperature slider, word-count slider | Bar chart of top-5 candidate words + generated continuation |
 
-*(Run the app locally to see it live — see [Quick Start](#-quick-start))*
+*(Run the app locally to see it live - see [Quick Start](#-quick-start))*
 
 ![alt text](screenshots/prediction.png)
 
