@@ -46,7 +46,7 @@ early stopping, and an inference layer decoupled from the UI.
 Raw text corpus
       │
       ▼
-Tokenizer (Keras) ── word_index, vocabulary
+Tokenizer (Keras) - word_index, vocabulary
       │
       ▼
 N-gram sequence builder ── e.g. [deep] → [deep, learning] → [deep, learning, is]
