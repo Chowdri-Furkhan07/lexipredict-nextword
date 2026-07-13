@@ -49,7 +49,7 @@ Raw text corpus
 Tokenizer (Keras) - word_index, vocabulary
       │
       ▼
-N-gram sequence builder ── e.g. [deep] → [deep, learning] → [deep, learning, is]
+N-gram sequence builder - e.g. [deep] → [deep, learning] → [deep, learning, is]
       │
       ▼
 Padding (pre) + train/val split
