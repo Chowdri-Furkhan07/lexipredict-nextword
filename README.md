@@ -103,7 +103,7 @@ sequences a manageable length.
 > ⚠️ Even a full novel excerpt is still small by NLP standards (~500KB of
 > text, ~100 usable sentences after filtering, 476-word vocabulary).
 > For meaningfully fluent generation, swap in a larger corpus - the full
-> book, several books, or a domain-specific dataset — and re-run
+> book, several books, or a domain-specific dataset - and re-run
 > `python -m src.train`. See [Future Improvements](#-future-improvements).
 
 ## 📈 Results
