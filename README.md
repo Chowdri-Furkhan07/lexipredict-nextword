@@ -117,7 +117,7 @@ sequences a manageable length.
 Switching from a 50-sentence synthetic corpus to ~100 real sentences from
 *Alice in Wonderland* roughly **doubled validation accuracy** across all
 three models. The train/val gap (e.g. SimpleRNN: 37.5% vs 9.5%) is still
-large — expected for a dataset this size, and a good illustration of why
+large - expected for a dataset this size, and a good illustration of why
 production language models train on millions of sentences, not hundreds.
 
 **On generation quality:** greedy decoding (temperature 0) on a model this
