@@ -124,7 +124,7 @@ production language models train on millions of sentences, not hundreds.
 small tends to loop on high-frequency words (`"the the the..."` or
 `"the a the a..."`). `src/predict.py` includes a **repetition-window
 guard** - recently used words are excluded from consideration at each
-generation step — which converts loops into varied (if not fully
+generation step - which converts loops into varied (if not fully
 grammatical) output. Raising the temperature slider in the app adds
 further variety at the cost of coherence. This is a real, documented
 limitation of small-corpus word-level language models, not a bug in the
