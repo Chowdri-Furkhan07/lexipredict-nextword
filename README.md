@@ -97,7 +97,7 @@ domain in the US). `data/corpus.txt` contains the first ten chapters as
 plain prose; `data/corpus_source_note.txt` documents the source. Unlike a
 one-sentence-per-line toy dataset, this is real running text, so
 `src/data_preprocessing.py` includes a sentence-splitter (regex on
-`.`/`!`/`?`) and filters sentences to 4–25 words to keep training
+`.`/`!`/`?`) and filters sentences to 4-25 words to keep training
 sequences a manageable length.
 
 > ⚠️ Even a full novel excerpt is still small by NLP standards (~500KB of
