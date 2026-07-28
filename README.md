@@ -28,6 +28,8 @@ early stopping, and an inference layer decoupled from the UI.
 - **Side-by-side model comparison** mode in the UI
 - **Reproducible artifacts** - tokenizer, max sequence length, and training history are persisted separately from model weights
 
+---
+
 ## 🖥️ App Preview
 
 | Control Panel | Prediction View |
