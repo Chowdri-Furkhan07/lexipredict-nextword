@@ -92,6 +92,8 @@ lexipredict-nextword/
 └── README.md
 ```
 
+---
+
 ## 📊 Dataset
 
 The repo ships with a **real public-domain book** as its training corpus:
