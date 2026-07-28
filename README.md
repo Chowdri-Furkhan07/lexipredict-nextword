@@ -110,6 +110,8 @@ sequences a manageable length.
 > book, several books, or a domain-specific dataset - and re-run
 > `python -m src.train`. See [Future Improvements](#-future-improvements).
 
+---
+
 ## 📈 Results
 
 | Model    | Train Accuracy | Val Accuracy | Val Loss | Epochs (early-stopped) | Params |
